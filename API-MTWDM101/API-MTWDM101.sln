@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-MTWDM101", "API-MTWDM101.csproj", "{EA7B1134-53B7-4DE7-AF98-A0CC116D43A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUsers.Library", "..\APIUsers.Library\APIUsers.Library.csproj", "{B07F8D7F-D70A-4661-AE47-72EE76B7DC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7B1134-53B7-4DE7-AF98-A0CC116D43A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7B1134-53B7-4DE7-AF98-A0CC116D43A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7B1134-53B7-4DE7-AF98-A0CC116D43A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7B1134-53B7-4DE7-AF98-A0CC116D43A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07F8D7F-D70A-4661-AE47-72EE76B7DC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07F8D7F-D70A-4661-AE47-72EE76B7DC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07F8D7F-D70A-4661-AE47-72EE76B7DC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07F8D7F-D70A-4661-AE47-72EE76B7DC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD13EE2-4ED0-44FC-8929-CC1503E9E4C7}
+	EndGlobalSection
+EndGlobal
